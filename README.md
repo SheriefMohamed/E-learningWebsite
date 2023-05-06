@@ -1,2 +1,2 @@
 # E-learningWebsite
-Simple music player with HTML, CSS and JS
+E-learning website with HTML, CSS and JS
